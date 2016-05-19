@@ -1,0 +1,21 @@
+body {
+  font-family: fantasy;
+  text-align: center;
+  color: #454545;
+  background-color: red;
+}
+.oranje {
+  background-color: orangered;
+}
+.geel {
+  background-color: yellow;
+}
+.groen {
+  background-color: limegreen;
+}
+.blauw {
+  background-color: deepskyblue;
+}
+.paars {
+  background-color: purple;
+}
